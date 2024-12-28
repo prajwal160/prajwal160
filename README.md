@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **prajwal160/prajwal160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning *React js*
 
-- 📫 How to reach me *gaddinaga2002@gmail.com*
+- 📫 How to reach me *alaladinniprajwal@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prajwal-alaladinni-070939245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prajwal-alaladinni-070939245/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/alaladinniprajwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/alaladinniprajwal/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/prajwal_160/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/prajwal_160/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prajwal-alaladinni-070939245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prajwal-alaladinni-070939245/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/alaladinniprajwal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/alaladinniprajwal/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/prajwal_160/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/prajwal_160/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
